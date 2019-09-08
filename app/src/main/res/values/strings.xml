@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ominous Notifications</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="eldritch_horror">Eldritch Horror</string>
+    <string name="eldritch_horror_description">Creepy, Lovecraftian messages.</string>
+    <string name="cyperspace">Cyp3rspace</string>
+    <string name="cyberspace_description">Cyberpunk-themed techy notifications.</string>
+    <string name="dead_drop">Dead Drop</string>
+    <string name="dead_drop_description">Espionage-themed channel. Receive oblique, coded messages.</string>
+    <string name="spacewar">Spacewar!</string>
+    <string name="spacewar_description">Space-opera-themed notifications about interstellar combat.</string>
+</resources>
